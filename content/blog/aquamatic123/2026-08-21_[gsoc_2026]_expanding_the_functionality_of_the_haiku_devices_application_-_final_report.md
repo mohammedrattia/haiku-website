@@ -26,10 +26,10 @@ Here is a breakdown of what was accomplished this summer:
 
 
 Here is what the Devices application looked like before:
-![Devices Before](deviceBeginning.png)
+![Devices Before](/files/blog/aquamatic123/deviceBeginning.png)
 
 And here is the application after adding the new features:
-![Devices After](DeviceEnd.png)
+![Devices After](/files/blog/aquamatic123/DeviceEnd.png)
 
 ## The Code 
 All of the code written during this GSoC period can be found on the Haiku Gerrit. 
