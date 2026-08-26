@@ -58,13 +58,11 @@ Haiku releases are distributed through a global network of generously donated mi
       <td><a class="track" href="https://mirror.diyarciftci.xyz/haiku/haiku-release/r1beta6/haiku-r1beta6-x86_gcc2h-anyboot.iso">iso</a></td>
       <td><a class="track" href="https://mirror.diyarciftci.xyz/haiku/haiku-release/r1beta6/haiku-r1beta6-x86_64-anyboot.iso">iso</a></td>
     </tr>
-<!--
     <tr class="link">
       <td class="location"><b>Location:</b> Stockholm, Sweden <br/>Provided by: <a target="_blank" class="ext" href="http://www.tnonline.net" title="tnonline.net">tnonline.net</a></td>
       <td><a class="track" href="https://mirrors.tnonline.net/haiku/haiku-release/r1beta6/haiku-r1beta6-x86_gcc2h-anyboot.iso">iso</a></td>
       <td><a class="track" href="https://mirrors.tnonline.net/haiku/haiku-release/r1beta6/haiku-r1beta6-x86_64-anyboot.iso">iso</a></td>
     </tr>
--->
     <tr class="link">
       <td class="location"><b>Location:</b> Australia <br/>Provided by: <a target="_blank" class="ext" href="https://aarnet.edu.au" title="aarnet.edu.au">aarnet.edu.au</a></td>
       <td><a class="track" href="https://mirror.aarnet.edu.au/pub/haiku/r1beta6/haiku-r1beta6-x86_gcc2h-anyboot.iso">iso</a></td>
