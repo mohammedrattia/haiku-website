@@ -19,7 +19,7 @@ tags = []
 
 ## Download Haiku
 
-<i>If you have an earlier version of Haiku installed, [see upgrade instructions below](#upgrading-from-r1beta6).</i>
+<i>If you have an earlier version of Haiku installed, [see upgrade instructions below](#upgrading-from-r1beta5).</i>
 
 <p>The provided images can be written directly to a <a href="/guides/installing/making_haiku_usb_stick">USB flash drive</a>, an empty disk, or <a href="/get-haiku/burn-cd">written to DVD</a> media.<br /> You can boot directly from your chosen physical media and try out Haiku without needing to install it.</p>
 The images can be used "live" or used to install Haiku to another disk/partition of your choice.<br />
